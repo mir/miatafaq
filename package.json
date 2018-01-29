@@ -11,10 +11,10 @@
     "url": "git+https://github.com/mir/miatafaq.git"
   },
   "engines": {
-    "node": "6.11.0"
+    "node": "8.9.4"
   },
   "dependencies": {
-    "telebot": "1.2.2"
+    "telebot": "1.2.3"
   },
   "keywords": [],
   "author": "",
